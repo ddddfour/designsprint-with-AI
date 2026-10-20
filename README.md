@@ -1,4 +1,4 @@
-# UX Design Sprint
+# AI-assisted Design Sprint
 
 AI-assisted design sprint workspace for a small team (3-5 people), powered by Claude Code. The template is technology-neutral: record the production stack on Day 1, and choose the prototype medium on Day 4. No prototype scaffold is included.
 
