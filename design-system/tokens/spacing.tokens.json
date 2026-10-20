@@ -1,0 +1,15 @@
+{
+  "$description": "Spacing and dimension tokens - populate from brand guidelines using /design-system-extraction",
+  "spacing": {
+    "$description": "Spacing scale for padding, margins, gaps"
+  },
+  "borderRadius": {
+    "$description": "Border radius values"
+  },
+  "elevation": {
+    "$description": "Shadow/elevation levels"
+  },
+  "sizing": {
+    "$description": "Component sizing (touch targets, icon sizes, etc.)"
+  }
+}

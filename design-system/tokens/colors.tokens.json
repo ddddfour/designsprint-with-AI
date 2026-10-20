@@ -1,0 +1,23 @@
+{
+  "$description": "Color tokens - populate from brand guidelines using /design-system-extraction",
+  "color": {
+    "primitive": {
+      "$description": "Raw color values extracted from brand"
+    },
+    "semantic": {
+      "$description": "Purpose-based color aliases",
+      "background": {
+        "$description": "Background colors"
+      },
+      "foreground": {
+        "$description": "Text and icon colors"
+      },
+      "interactive": {
+        "$description": "Colors for interactive elements"
+      },
+      "feedback": {
+        "$description": "Colors for success, warning, error states"
+      }
+    }
+  }
+}

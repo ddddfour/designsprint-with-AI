@@ -1,0 +1,20 @@
+{
+  "$description": "Typography tokens - populate from brand guidelines using /design-system-extraction",
+  "typography": {
+    "fontFamily": {
+      "$description": "Font family definitions"
+    },
+    "fontSize": {
+      "$description": "Font size scale"
+    },
+    "fontWeight": {
+      "$description": "Font weight definitions"
+    },
+    "lineHeight": {
+      "$description": "Line height scale"
+    },
+    "composite": {
+      "$description": "Combined typography styles (heading, body, caption, etc.)"
+    }
+  }
+}
